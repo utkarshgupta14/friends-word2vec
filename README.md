@@ -1,5 +1,5 @@
 # friends-word2vec
-Training word2vec on the script from the TV show "Friends"
+Training word2vec on the script for the TV show "Friends"
 
 This project demonstrates the use of Gensim's Word2Vec model to 
 generate word embeddings from the scripts of the popular TV show *Friends*. 
